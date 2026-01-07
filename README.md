@@ -36,7 +36,7 @@ If you find this repository useful in your research, please cite our paper once 
   author = {Yulong Zhang, Xianghong Xue, Lingxia Mu, Jing Xin, Yichi Yang, Youmin Zhang},
   title = {Detection of Missing Insulators in High-Voltage Transmission Lines Using UAV Images},
   journal = {Drones},
-  year = {2025},
+  year = {2026},
   volume = {...},
   pages = {...},
   doi = {...}
